@@ -12,7 +12,7 @@
 
 # Hi, I'm Samiksha! 🐣
 
-### I'm a high school student (and incoming DS major at UC Berkeley!) from the Bay Area interested in data science, machine learning, and chemistry. I'm especially curious about computational chemistry and biology, drug development and delivery, etc.
+### I'm a student at UC Berkeley interested in data science, machine learning, and chemistry. I'm especially curious about computational chemistry and biology, drug development and delivery, etc.
 <!-- I’m a high school student with interests in data science 👩🏾‍💻, AI 🤖, chemistry 🧪, and effective design 💡, as well as a passion for community outreach 🫂.
 
 ### Ask me about:
